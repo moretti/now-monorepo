@@ -1,0 +1,9 @@
+{
+  "name": "now-monorepo",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "license": "MIT"
+}

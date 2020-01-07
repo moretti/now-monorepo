@@ -1,0 +1,8 @@
+{
+  "name": "site2",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p dist; echo '<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"><title>Site 2</title></head><body>Site 2</body></html>' > dist/index.html"
+  },
+  "license": "MIT"
+}
